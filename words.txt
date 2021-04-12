@@ -1,0 +1,6 @@
+apple
+juice
+water
+lion
+fox
+fire
